@@ -1,0 +1,7 @@
+/_build
+/_images
+/cover
+/deps
+erl_crash.dump
+*.ez
+/rel/blinky
